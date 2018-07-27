@@ -1,0 +1,13 @@
+enviroment:
+  dev:
+    protocol: "https"
+    base_url: "dev.api.github.com"
+  pre: 
+    protocol: "https"
+    base_url: "pre.api.github.com"
+  prod: 
+    protocol: "https"
+    base_url: "api.github.com"
+  local:
+    protocol: "http"
+    base_url: "local..api.github.com"
