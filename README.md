@@ -42,6 +42,12 @@ Ejecutar main.py
 (venv) [root@594ea994b77f]/app# pytest -v
 ```
 
+<img style="width:100%;" src="doc/pytest-run.png">
+
+Json recibido
+-------------
+<img style="width:100%;" src="doc/json-response.png">
+
 Estructura del project
 ======================
 
